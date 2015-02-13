@@ -1,7 +1,7 @@
 # Summary
 
 - [Introduction](README.md)
-- Prologue
+- [Prologue](PROLOGUE.md)
     - [Release Notes](releases.md)
         - [Laravel 5.0](releases.md#laravel-5.0)
         - [Laravel 4.2](releases.md#laravel-4.2)
@@ -18,7 +18,7 @@
         - [Which Branch?](contributions.md#which-branch)
         - [Security Vulnerabilities](contributions.md#security-vulnerabilities)
         - [Coding Style](contributions.md#coding-style)
-- Setup
+- [Setup](SETUP.md)
     - [Installation](installation.md)
         - [Install Composer](installation.md#install-composer)
         - [Install Laravel](installation.md#install-laravel)
@@ -37,7 +37,7 @@
         - [Installation & Setup](homestead.md#installation-and-setup)
         - [Daily Usage](homestead.md#daily-usage)
         - [Ports](homestead.md#ports)
-- The Basics
+- [The Basics](BASICS.md)
     - [Routing](routing.md)
         - [Basic Routing](routing.md#basic-routing)
         - [CSRF Protection](routing.md#csrf-protection)
@@ -75,7 +75,7 @@
     - [Views](views.md)
         - [Basic Usage](views.md#basic-usage)
         - [View Composers](views.md#view-composers)
-- Architecture Foundations
+- [Architecture Foundations](ARCHITECTURE.md)
     - [Service Providers](providers.md)
         - [Introduction](providers.md#introduction)
         - [Basic Provider Example](providers.md#basic-provider-example)
@@ -110,7 +110,7 @@
         - [The Root Directory](structure.md#the-root-directory)
         - [The App Directory](structure.md#the-app-directory)
         - [Namespacing Your Application](structure.md#namespacing-your-application)
-- Services
+- [Services](SERVICES.md)
     - [Authentication](authentication.md)
         - [Introduction](authentication.md#introduction)
         - [Authenticating Users](authentication.md#authenticating-users)
@@ -246,7 +246,7 @@
         - [Conditionally Adding Rules](validation.md#conditionally-adding-rules)
         - [Custom Error Messages](validation.md#custom-error-messages)
         - [Custom Validation Rules](validation.md#custom-validation-rules)
-- Database
+- [Database](DATABASE.md)
     - [Basic Usage](database.md)
         - [Configuration](database.md#configuration)
         - [Read / Write Connections](database.md#read-write-connections)
@@ -312,7 +312,7 @@
         - [Configuration](redis.md#configuration)
         - [Usage](redis.md#usage)
         - [Pipelining](redis.md#pipelining)
-- Artisan CLI
+- [Artisan CLI](ARTISAN.md)
     - [Overview](artisan.md)
         - [Introduction](artisan.md#introduction)
         - [Usage](artisan.md#usage)
