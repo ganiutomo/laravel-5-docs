@@ -1,2 +1,18 @@
 # Prologue
 
+- [Release Notes](docs/5.0/docs/5.0/releases.md)
+    - [Laravel 5.0](docs/5.0/releases.md#laravel-5.0)
+    - [Laravel 4.2](docs/5.0/releases.md#laravel-4.2)
+    - [Laravel 4.1](docs/5.0/releases.md#laravel-4.1)
+- [Upgrade Guide](docs/5.0/upgrade.md)
+    - [Upgrading To 5.0 From 4.2](docs/5.0/upgrade.md#upgrade-5.0)
+    - [Upgrading To 4.2 From 4.1](docs/5.0/upgrade.md#upgrade-4.2)
+    - [Upgrading To 4.1.29 From <= 4.1.x](docs/5.0/upgrade.md#upgrade-4.1.29)
+    - [Upgrading To 4.1.26 From <= 4.1.25](docs/5.0/upgrade.md#upgrade-4.1.26)
+    - [Upgrading To 4.1 From 4.0](docs/5.0/upgrade.md#upgrade-4.1)
+- [Contribution Guide](docs/5.0/contributions.md)
+    - [Bug Reports](docs/5.0/contributions.md#bug-reports)
+    - [Core Development Discussion](docs/5.0/contributions.md#core-development-discussion)
+    - [Which Branch?](docs/5.0/contributions.md#which-branch)
+    - [Security Vulnerabilities](docs/5.0/contributions.md#security-vulnerabilities)
+    - [Coding Style](docs/5.0/contributions.md#coding-style)
