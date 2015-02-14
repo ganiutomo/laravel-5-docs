@@ -2,7 +2,7 @@
 
 - [Introduction](README.md)
 - [Prologue](PROLOGUE.md)
-    - [Release Notes](docs/5.0/docs/5.0/releases.md)
+    - [Release Notes](docs/5.0/releases.md)
         - [Laravel 5.0](docs/5.0/releases.md#laravel-5.0)
         - [Laravel 4.2](docs/5.0/releases.md#laravel-4.2)
         - [Laravel 4.1](docs/5.0/releases.md#laravel-4.1)
